@@ -14,9 +14,9 @@
 10. Timestamp tasks with today's date (datetime)
 
 #### Example Usage
-``bash
+```bash
 python tracker.py --task "email cleanup" --person "Alice"
-``
+```
 
 Then:
 - appends the task to tasks.csv
